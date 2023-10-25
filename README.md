@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://count.getloli.com/get/@runofftheearth.github.readme?theme=rule34)
+![runofftheearth.github.readme](https://count.getloli.com/get/@runofftheearth.github.readme?theme=rule34)
 
 <!--
 **runofftheearth/runofftheearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
