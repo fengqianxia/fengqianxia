@@ -1,5 +1,5 @@
 ### Hi there 👋
-<center>![](https://count.getloli.com/get/@runofftheearth.github.readme?theme=rule34)</center>
+![](https://count.getloli.com/get/@runofftheearth.github.readme?theme=rule34)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/runofftheearth/runofftheearth/output/github-contribution-grid-snake-dark.svg">
