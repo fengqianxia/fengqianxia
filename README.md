@@ -4,7 +4,7 @@
 
 📧 Email: kai.wang@126.com
 
-🌐 Website: ziyue.tech
+🌐 Website: [ziyue.tech](https://ziyue.tech/)
 
 📍 Location: 银河 / The Milky Way
 
