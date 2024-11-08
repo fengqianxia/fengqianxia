@@ -6,7 +6,7 @@
 
 🌐 Website: [ziyue.tech](https://ziyue.tech/)
 
-📍 Location: 银河 / The Milky Way
+📍 Location: Anyang / Henan
 
 ![](https://count.getloli.com/get/@runofftheearth.github.readme?theme=rule34)
 
