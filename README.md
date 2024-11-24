@@ -2,6 +2,8 @@
 
 你好呀~我是亲自巡山的大王。
 
+主要用来部署博客。
+
 📧 Email: kai.wang@126.com
 
 🌐 Website: [ziyue.tech](https://ziyue.tech/)
