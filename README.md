@@ -6,7 +6,7 @@
 
 📧 Email: kai.wang@126.com
 
-🌐 Website: [ziyue.tech](https://ziyue.tech/)
+🌐 Website: [openaiol](https://openaiol.com/)
 
 📍 Location: Anyang / Henan
 
