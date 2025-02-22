@@ -6,7 +6,7 @@
 
 📧 Email: kai.wang@126.com
 
-🌐 Website: [openaiol](https://moyu.re/)
+🌐 Website: [moyu.rel](https://moyu.re/)
 
 📍 Location: Anyang / Henan
 
